@@ -1,5 +1,5 @@
 # Excel-and-GMap-GUI
-An GUI that uses GMap and Excel libraries.
+An (javaFx) GUI that uses GMap and Excel libraries.
 Currently a Work-In-Progress.
 The end result is a GUI that extracts, displays and edit data from an excel sheet.
 The GUI should also have a GMap with multiple locations on it (unless internet connections issues, left click page to reload)
@@ -8,3 +8,4 @@ Currently, works but needs commenting on most files and fixing of a few bugs.
 Files already commented on are AppGUI,GMap,GMap_data.
 Known bugs: 1) the textfeild options box (Combo Box) is sometimes not attached to the textfeild.
 Irrelevent code needs to be removed.
+To start the GUI run the AppGUI file.
