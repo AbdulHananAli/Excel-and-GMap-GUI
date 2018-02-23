@@ -1,4 +1,4 @@
-package project_Nestle;
+package project_A;
 
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
